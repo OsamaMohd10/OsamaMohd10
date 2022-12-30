@@ -5,7 +5,7 @@ Data Analyst
 ------------
 
 Dedicated Data Analyst who enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
-<img align="right" width="400" src="">
+<img align="right" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
 *   🌍  I'm based in Nairobi
 *   🖥️  See my portfolio at [osama.netlify.app](http://osama.netlify.app.com)
