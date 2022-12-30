@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Dedicated Data Analyst that enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
+Dedicated Data Analyst who enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
 
 *   🌍  I'm based in Nairobi
 *   🖥️  See my portfolio at [osama.netlify.app](http://osama.netlify.app.com)
