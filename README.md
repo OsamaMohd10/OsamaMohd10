@@ -5,7 +5,7 @@ Data Analyst
 ------------
 
 Dedicated Data Analyst who enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
-<img align="right" width="400" src="https://www.google.com/imgres?imgurl=https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif&imgrefurl=https://nodusanalytics.com/data-analysis-and-visualization/&h=372&w=801&tbnid=kZtU8pDp-POscM&tbnh=153&tbnw=330&usg=AI4_-kSi129n4Lrea4HGtMrmYOu8Iuwn5g&vet=1&docid=Dxz_bfCvVhRXyM"
+<img align="right" width="400" src="https://www.google.com/imgres?imgurl=https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif&imgrefurl=https://nodusanalytics.com/data-analysis-and-visualization/&h=372&w=801&tbnid=kZtU8pDp-POscM&tbnh=153&tbnw=330&usg=AI4_-kSi129n4Lrea4HGtMrmYOu8Iuwn5g&vet=1&docid=Dxz_bfCvVhRXyM">
 
 *   🌍  I'm based in Nairobi
 *   🖥️  See my portfolio at [osama.netlify.app](http://osama.netlify.app.com)
