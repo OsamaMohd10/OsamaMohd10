@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Dedicated Data Analyst who enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
+Dedicated Data Analyst  enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
 <img align="right" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
 *   🌍  I'm based in Nairobi
