@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osama Mohamed
+=====================================================================================================================================
 
-<!--
-**OsamaMohd10/OsamaMohd10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst
+------------
 
-Here are some ideas to get you started:
+Dedicated Data Analyst that enjoys analyzing chunks of data, visualizing and telling stories and insights about data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Nairobi
+*   🖥️  See my portfolio at [osama.netlify.app](http://osama.netlify.app.com)
+*   ✉️  You can contact me at [muniirosama12@gmail.com](mailto:muniirosama12@gmail.com)
+*   🤝  I'm open to collaborating on Data Analytics and Dashboarding projects
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/UsamaMohd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/osama-mohamed-74b5b8214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/20077039/osama-mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
