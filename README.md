@@ -8,7 +8,7 @@ Dedicated Data Analyst who enjoys analyzing chunks of data, visualizing and tell
 <img align="right" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
 *   🌍  I'm based in Nairobi
-*   🖥️  See my portfolio at [osama.mohamed](https://osama-mohamed10.netlify.app)
+*   🖥️  See my portfolio at [osama.mohamed](https://osama-mohamed12.netlify.app)
 *   ✉️  You can contact me at [muniirosama12@gmail.com](mailto:muniirosama12@gmail.com)
 *   🤝  I'm open to collaborating on Data Analytics and Dashboarding projects
   ### Socials
